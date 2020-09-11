@@ -1,0 +1,44 @@
+body {
+    background: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   max-width:  900px;  
+   margin: auto;
+} 
+.photo { 
+    border: 1px solid blue;
+    border-radius: 50px;
+}
+
+#title, .subtitle, .post_title {
+    color: blue;
+    text-transform: uppercase;
+}
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0%;
+    margin-bottom: 15px;
+}
+
+.posts{
+    background: #000
+    padding 15px
+    border 3px solid #000 ;
+margin-bottom: 15px;
+    
+}
+.post_content {
+    margin: 0%;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.post_image {
+margin-bottom: 15px;
+}
+.contacts_list {
+    list-style: square;
+    padding-left: 15px;
+}
+
+
